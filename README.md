@@ -1,7 +1,7 @@
 - 👋 Hi! I’m Eric
 - 👀 I’m interested in developing my coding skills for Java, C++ and Python.
-- 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on anything suited for a beginner.
+- 🌱 I’m currently learning Python and C.
+- 💞️ I’m looking to collaborate on anything suited for a beginner or any internships suitable for a beginner.
 - 📫 How to reach me: Email me at ericwu694@gmail.com
 
 <!---
