@@ -1,5 +1,5 @@
 - 💞️ I’m actively looking for a internship right now!
-- 📫 How to reach me: Email me at ericwu.dev@gmail.com
+- 📫 Reach me at ericwu.dev@gmail.com or https://www.linkedin.com/in/eric-wu-dev/
 
 <!---
 Ewu694/Ewu694 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
