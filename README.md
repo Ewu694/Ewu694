@@ -2,7 +2,7 @@
 <h3 align="center">Software/Cloud Engineer</h3>
 Hey! I'm a rising senior at Hunter College majoring in Computer Science with a minor in Mathematics. I have a strong foundation in JavaScript, Python, and C++, and proficiency in HTML, CSS, React.js, and AWS. Currently, I'm exploring new frameworks and libraries, learning API usage, and advancing my cloud knowledge to earn the SAA-C03 certificate through Andrew Cantrill’s course. Im always looking for new opportunities that allow me to contribute to innovative projects and further expand my expertise!
 <br><br>
-Fun Fact, when you are kicked out of an organization, all the commits go away as well 🙃
+** Fun Fact, when you are kicked out of an organization, all the commits go away as well ** 🙃
 
 
 # 💻 Tech Stack:
