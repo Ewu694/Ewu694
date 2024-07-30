@@ -9,16 +9,16 @@ Hey! I'm a rising senior at Hunter College majoring in Computer Science with a m
 # 💻 Tech Stack:
 <div align="center"> 
   <h3><strong>Languages</strong></h3>
-  <img src="https://skillicons.dev/icons?i=ts,js,cpp,py,sql&theme=dark" alt="Languages">
+  <img src="https://skillicons.dev/icons?i=ts,js,cpp,py,sql&theme=dark&perline=3" alt="Languages">
   
   <h3><strong>Frameworks</strong></h3>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,bootstrap,bun,elysia&theme=dark" alt="Frameworks">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,bootstrap,bun,elysia&theme=dark&perline=3" alt="Frameworks">
   
   <h3><strong>Databases</strong></h3>
-  <img src="https://skillicons.dev/icons?i=aws,firebase,redis,docker,mongodb,mysql&theme=dark" alt="Databases">
+  <img src="https://skillicons.dev/icons?i=aws,firebase,redis,docker,mongodb,mysql&theme=dark&perline=3" alt="Databases">
   
   <h3><strong>Others</strong></h3>
-  <img src="https://skillicons.dev/icons?i=aws,discordjs,jquery,git,jest,matlab,npm,yarn&theme=dark" alt="Others">
+  <img src="https://skillicons.dev/icons?i=aws,discordjs,jquery,git,jest,matlab,npm,yarn&theme=dark&perline=3" alt="Others">
 </div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
