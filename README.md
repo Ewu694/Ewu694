@@ -1,25 +1,19 @@
 <h1 align="center">Hi 👋, I'm Eric</h1>
 <h3 align="center">Software/Cloud Engineer</h3>
-Hey! I'm a rising senior at Hunter College majoring in Computer Science with a minor in Mathematics. I have a strong foundation in JavaScript, Python, and C++, and proficiency in HTML, CSS, React.js, and AWS. Currently, I'm exploring new frameworks and libraries, learning API usage, and advancing my cloud knowledge to earn the SAA-C03 certificate through Andrew Cantrill’s course. Im always looking for new opportunities that allow me to contribute to innovative projects and further expand my expertise!
-<br><br>
+Hey! I'm a rising senior at Hunter College majoring in Computer Science with a minor in Mathematics. I'm currently a SWE intern at TipTop Technologies and a SWE Fellow at Headstarter and CodePath! Throughout the summer I will be exploring new frameworks and libraries while doing my best to advance my cloud knowledge to earn a AWS Solutions Architect Associate certificate. Please feel free to get in touch with me as I am always looking for new opportunities that allow me to contribute to innovative projects and further expand my expertise!
 
 <!--Fun Fact: When you are kicked out of an organization, all the commits go away as well 🙃-->
 
 
 # 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
-[![Backend](https://skillicons.dev/icons?i=express,bun,elysia,ts,js,go,dart,py&theme=dark)](https://skillicons.dev)
-<br>
-<br>
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-<br>
-<br>
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-<br>
-<br>
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-<br>
-<br>
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) 
-
+<div align="center"> 
+  <h3><strong>Languages</strong></h3>
+    [![Languages](https://skillicons.dev/icons?i=ts,js,cpp,py,sql&theme=dark)](https://skillicons.dev)
+  <h3><strong>Frameworks</strong></h3>
+    [![Frameworks](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,bootstrap,bun,elysia&theme=dark)](https://skillicons.dev)
+  <h3><strong>Databases</strong></h3>
+    [![Databases](https://skillicons.dev/icons?i=aws,firebase,redis,docker,mongodb,mysql&theme=dark)](https://skillicons.dev)
+  <h3><strong>Others</strong></h3>
+    [![Others](https://skillicons.dev/icons?i=aws,discordjs,jquery,git,jest,matlab,npm,yarn&theme=dark)](https://skillicons.dev)
+</div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
