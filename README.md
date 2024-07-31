@@ -1,4 +1,4 @@
-<h1 align='center'><strong> Hi 👋, I'm Eric </strong><h1/>
+<h1 align='center'><strong> Hi 👋, I'm Eric</strong><h1/>
 
 <h2 align='center'><strong>Software/Cloud Engineer</strong></h2>
 
