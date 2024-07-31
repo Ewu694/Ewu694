@@ -5,7 +5,7 @@
   
   <!--Fun Fact: When you are kicked out of an organization, all the commits go away as well 🙃-->
   
-  #💻 Tech Stack:
+  # 💻 Tech Stack:
   <div align="center"> 
     <h3><strong>Languages</strong></h3>
     <img src="https://skillicons.dev/icons?i=ts,js,cpp,py,sql&theme=dark&perline=3" alt="Languages">
