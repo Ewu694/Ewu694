@@ -1,4 +1,4 @@
-# Hi 👋, I'm Eric
+<h1 align='center'><strong> Hi 👋, I'm Eric </strong><h1/>
 
 ## Software/Cloud Engineer
 
